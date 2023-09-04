@@ -15,12 +15,12 @@
 
 @media only screen and (min-width: 801px) {
     .chatbox {
-        width: 35%;
+        width: 80%;
     }
 }
 @media only screen and (min-width: 601px) and (max-width:800px) {
     .chatbox {
-        width: 50%;
+        width: 70%;
     }
 }
 @media screen and (min-width: 200px) and (max-width:601px){
@@ -138,7 +138,7 @@
     position: absolute;
     bottom: 10px;
     right: 10px;
-    height: 80%;
+    height: 92%;
 }
 
 .chatbox__support {
@@ -194,7 +194,7 @@
 
 .chatbox__support {
     background: #fff;
-    height: 80%;
+    height: 90%;
     width: 100%;
     box-shadow: 0 0 15px rgba(0, 0, 0, .1);
     border-radius: 20px 20px 0
